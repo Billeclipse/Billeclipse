@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Billeclipse
+- 👋 Hi, I’m Vasilios Giogourtsoglou
 - 👀 I’m interested in computer science projects.
 - 🌱 I’m currently learning computer software engineering.
 - 💞️ I’m looking to collaborate on software engineering projects.
