@@ -50,22 +50,6 @@ These are part of a structured course and represent incremental learning steps:
 * **Databases:** SQL Server, Sequelize ORM
 * **Other:** Networking, Game Dev fundamentals
 
----
-
-## 📌 Notes
-
-* Older repositories reflect larger, more complete systems
-* Newer repositories focus on experimentation and learning (AI, Python, modern JS)
-
----
-
-## 📫 Contact
-
-* GitHub: https://github.com/Billeclipse
-* via email at vasiliosgio@hotmail.com.
-
----
-
 <!---
 Billeclipse/Billeclipse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
