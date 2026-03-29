@@ -69,5 +69,3 @@ Structured projects demonstrating progressive learning in React:
 - **Frontend:** React
 - **Databases:** SQL Server, Sequelize ORM  
 - **Other:** Entity Framework, UWP, Networking, Game Development  
-
----
