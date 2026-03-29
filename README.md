@@ -1,56 +1,73 @@
 ### 👋 Hi, I’m Vasilios Giogourtsoglou
-### 👀 I’m interested in computer science projects.
-### 🌱 I’m currently learning computer software engineering.
-### 💞️ I’m looking to collaborate on software engineering projects.
-### 📫 How to reach me : via email at vasiliosgio@hotmail.com.
+
+I’m a .NET Developer and software engineering student passionate about building practical applications across backend systems, web development, and game development.
+
+I enjoy solving complex problems, contributing to team environments, and developing efficient, scalable solutions. My work spans real-world applications and personal projects, reflecting a strong commitment to continuous learning and modern technologies.
+
+* 💼 Currently working as a **.NET Developer** (Windows applications & backend systems)
+* 🌱 Focused on: ASP.NET Core, system design, and scalable architectures
+* 🎮 Interests: Game development and interactive applications
+* 🌐 Portfolio: https://billeclipse.com/portfolio/
+* 📫 Contact: [vasiliosgio@hotmail.com](mailto:vasiliosgio@hotmail.com)
+
+---
 
 ## 🚀 Featured Projects
 
-These represent my most complete and production-style work.
+These represent my strongest and most complete work:
 
-* 🔹 **BillyBally-Project** – Game development project in Unity C#
-* 🔹 **Complete-ASP.NET-Core-Leave-Management-Project** – Full-stack .NET MVC application
-* 🔹 **WaveformUISample** – UI-focused application showcasing design and interaction patterns
-* 🔹 **Network-Programming-Project** – Networking concepts and implementation
-* 🔹 **Travel-Agency-Database-Project-GR** – Database-driven web system
-*  🔹 **Potteridis-Project** – Game development project in C++
+*  **[BillyBally-Project](https://github.com/Billeclipse/BillyBally-Project)** -
+  Unity C# game featuring gameplay mechanics, UI systems, and interactive design
 
----
+*  **[ASP.NET Core Leave Management System](https://github.com/Billeclipse/Complete-ASP.NET-Core-Leave-Management-Project)** -
+  Full-stack MVC application with authentication, role-based access, and SQL Server integration using Entity Framework
 
-## 🌐 JavaScript / Web Projects
+*  **[WaveformUISample](https://github.com/Billeclipse/WaveformUISample)** -
+  UI-focused project demonstrating interaction patterns and responsive design principles
 
-### ⭐ Main Projects
-
-* **ms365-sso-demo** – Microsoft 365 SSO integration demo
-* **Supercharging-Node.js-Applications-with-Sequelize-Project** – Backend with Sequelize ORM
-
-### 📚 React Course Series (Learning Projects)
-
-These are part of a structured course and represent incremental learning steps:
-
-* React Complete Guide – Part 1 Setup
-* React Complete Guide – Part 1 Project
-* React Complete Guide – Part 2 Project
+*  **[Network Programming Project](https://github.com/Billeclipse/Network-Programming-Project)** -
+  Implementation of client-server communication and networking protocols
 
 ---
 
-## 🐍 Python Projects (Recent Work)
+## 🌐 Web & Backend Projects
 
-* **ai-agentdev** – AI-focused experimentation and development
-* **pygameboot.dev** – Game-related Python exploration
-* **bookbot** – CLI / automation-style project
+* **[MS365 SSO Demo](https://github.com/Billeclipse/ms365-sso-demo)** -
+  Microsoft 365 authentication and SSO integration
+
+* **[Node.js + Sequelize Project](https://github.com/Billeclipse/Supercharging-Node.js-Applications-with-Sequelize-Project)** -
+  Backend system with ORM, database modeling, and API structure
+
+---
+
+## 📚 React Course Series (Learning Projects)
+
+Structured projects demonstrating progressive learning in React:
+* **[React Complete Guide – Part 1 Setup](https://github.com/Billeclipse/The-Complete-Guide-React-01-Starting-Setup)**
+* **[React Complete Guide – Part 1 Project](https://github.com/Billeclipse/The-Complete-Guide-React-01-Starting-Project)**
+* **[React Complete Guide – Part 2 Project](https://github.com/Billeclipse/The-Complete-Guide-React-02-Starting-Project)**
+
+---
+
+## 🐍 Python Projects
+
+* **[ai-agentdev](https://github.com/Billeclipse/ai-agentdev)**
+  AI experimentation and development of intelligent agents
+
+* **[pygameboot.dev](https://github.com/Billeclipse/pygameboot.dev)**
+  Python-based game development exploration
+
+* **[bookbot](https://github.com/Billeclipse/bookbot)**
+  CLI automation tool for text processing
 
 ---
 
 ## 🧠 Skills & Technologies
 
-* **Languages:** JavaScript, Python, C#, SQL
-* **Frontend:** React
-* **Backend:** Node.js, ASP.NET Core
-* **Databases:** SQL Server, Sequelize ORM
-* **Other:** Networking, Game Dev fundamentals
+**Languages:** C#, JavaScript, Python, SQL  
+- **Backend:** ASP.NET Core, Node.js  
+- **Frontend:** React
+- **Databases:** SQL Server, Sequelize ORM  
+- **Other:** Entity Framework, UWP, Networking, Game Development  
 
-<!---
-Billeclipse/Billeclipse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
