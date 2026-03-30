@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Vasilios Giogourtsoglou
 
-I’m a .NET Developer and software engineering student passionate about building practical applications across backend systems, web development, and game development.
+I’m a .NET developer focused on building practical applications across backend systems, web, and game development. Currently, I specialize in Windows applications and backend development using ASP.NET, Microsoft SQL Server, Entity Framework, UWP, and C#.
 
 I enjoy solving complex problems, contributing to team environments, and developing efficient, scalable solutions. My work spans real-world applications and personal projects, reflecting a strong commitment to continuous learning and modern technologies.
 
