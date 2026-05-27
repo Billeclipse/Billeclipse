@@ -64,8 +64,20 @@ Structured projects demonstrating progressive learning in React:
 
 ## 🧠 Skills & Technologies
 
-**Languages:** C#, JavaScript, Python, SQL  
-- **Backend:** ASP.NET Core, Node.js  
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+**Languages:** C#, JavaScript, Python, SQL
+
+- **Backend:** ASP.NET Core, Node.js
 - **Frontend:** React
-- **Databases:** SQL Server, Sequelize ORM  
-- **Other:** Entity Framework, UWP, Networking, Game Development  
+- **Databases:** SQL Server, Sequelize ORM
+- **Other:** Entity Framework, UWP, Networking, Game Development
+
+  </td>
+  <td width="45%" valign="top" align="center" style="padding: 0;">  
+    <img src="https://api.boot.dev/v1/users/public/e7e892ca-735b-40c0-b4e1-78b8edcf3957/thumbnail" width="100%">
+  </td>
+  </tr>
+</table>
