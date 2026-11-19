@@ -63,14 +63,11 @@
   <tr>
     <td width="55%" valign="top">
 
-- **Languages:** C#, SQL, JavaScript, Python, Java, C, Go
-- **.NET:** ASP.NET Core, ASP.NET MVC / Web API, Entity Framework (Core), UWP / XAML
-- **Data:** SQL Server, Sequelize ORM
-- **Auth:** MSAL, Microsoft 365 SSO, role-based authorization
-- **DevOps:** Git, Azure Pipelines, GitHub Actions, Docker (learning)
-- **Frontend:** React
+- **Languages:** C#, SQL, JavaScript, Python, Java, Go
+- **.NET & Data:** ASP.NET Core, Web API, EF Core, UWP, SQL Server
+- **DevOps:** Git, Azure Pipelines, GitHub Actions, Docker
 - **Games:** Unity, Ebitengine, Pygame
-- **AI tooling:** Gemini, Antigravity, Claude, agent skills
+- **AI tooling:** Codex, Claude, Antigravity
 
   </td>
   <td width="45%" valign="top" align="center" style="padding: 0;">
