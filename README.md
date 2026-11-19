@@ -1,64 +1,59 @@
 ### 👋 Hi, I’m Vasilios Giogourtsoglou
 
-I’m a .NET developer focused on building practical applications across backend systems, web, and game development. Currently, I specialize in Windows applications and backend development using ASP.NET, Microsoft SQL Server, Entity Framework, UWP, and C#.
+.NET developer at **Express Publishing** (Athens, since 2022), where I built the **Express DigiBooks** Windows app (UWP/C#) and work on its backend integration, SQL Server data, Microsoft 365 SSO and CI/CD. I like building practical software end to end, from backend APIs to desktop apps and games.
 
-I enjoy solving complex problems, contributing to team environments, and developing efficient, scalable solutions. My work spans real-world applications and personal projects, reflecting a strong commitment to continuous learning and modern technologies.
-
-* 💼 Currently working as a **.NET Developer** (Windows applications & backend systems)
-* 🌱 Focused on: ASP.NET Core, system design, and scalable architectures
-* 🎮 Interests: Game development and interactive applications
-* 🌐 Portfolio: https://billeclipse.com/portfolio/
-* 📫 Contact: [vasiliosgio@hotmail.com](mailto:vasiliosgio@hotmail.com)
+* 💼 **Now:** Windows apps (UWP/XAML) & backend systems in C#/.NET
+* 🌱 **Learning:** ASP.NET Core, system design, scalable architectures, Docker, unit testing
+* 🎮 **Also:** game development (Unity, Go/Ebitengine) and AI-assisted / agentic development
+* 🌐 **Portfolio:** [billeclipse.com/portfolio](https://billeclipse.com/portfolio/)
+* 🔗 **LinkedIn:** [vasilios-giogourtsoglou](https://www.linkedin.com/in/vasilios-giogourtsoglou-5a7291114)
+* 📫 **Contact:** [vasiliosgio@hotmail.com](mailto:vasiliosgio@hotmail.com)
 
 ---
 
 ## 🚀 Featured Projects
 
-These represent my strongest and most complete work:
+* 🏛️ **[Olympus: Aegis of Athena](https://github.com/Billeclipse/olympus-aegis-of-athena-cloudday-2026)** — **[▶ Play in browser](https://billeclipse.github.io/olympus-aegis-of-athena-cloudday-2026/)**
+  Greek-mythology roguelike built in a 90-minute game jam at Google Cloud Day Athens 2026 with Gemini & Antigravity 2.0. Go + Ebitengine compiled to WebAssembly, deployed with GitHub Actions to GitHub Pages.
 
-*  **[BillyBally-Project](https://github.com/Billeclipse/BillyBally-Project)** -
-  Unity C# game featuring gameplay mechanics, UI systems, and interactive design
+* 🎮 **[BillyBally](https://github.com/Billeclipse/BillyBally-Project)**
+  Unity 3D Android game in C# — gameplay mechanics, UI systems and level design.
 
-*  **[ASP.NET Core Leave Management System](https://github.com/Billeclipse/Complete-ASP.NET-Core-Leave-Management-Project)** -
-  Full-stack MVC application with authentication, role-based access, and SQL Server integration using Entity Framework
+* 🔐 **[MS365 SSO Demo](https://github.com/Billeclipse/ms365-sso-demo)**
+  Microsoft 365 single sign-on with MSAL — the same auth pattern I use in production.
 
-*  **[WaveformUISample](https://github.com/Billeclipse/WaveformUISample)** -
-  UI-focused project demonstrating interaction patterns and responsive design principles
+* 🗂️ **[ASP.NET Core Leave Management System](https://github.com/Billeclipse/Complete-ASP.NET-Core-Leave-Management-Project)**
+  Full-stack MVC app with authentication, role-based access and SQL Server via Entity Framework Core.
 
-*  **[Network Programming Project](https://github.com/Billeclipse/Network-Programming-Project)** -
-  Implementation of client-server communication and networking protocols
-
----
-
-## 🌐 Web & Backend Projects
-
-* **[MS365 SSO Demo](https://github.com/Billeclipse/ms365-sso-demo)** -
-  Microsoft 365 authentication and SSO integration
-
-* **[Node.js + Sequelize Project](https://github.com/Billeclipse/Supercharging-Node.js-Applications-with-Sequelize-Project)** -
-  Backend system with ORM, database modeling, and API structure
+* 🎧 **[WaveformUISample](https://github.com/Billeclipse/WaveformUISample)**
+  UWP audio waveform visualization using NAudio and ManagedBass.
 
 ---
 
-## 📚 React Course Series (Learning Projects)
+## 🎮 Games & Game Jams
 
-Structured projects demonstrating progressive learning in React:
-* **[React Complete Guide – Part 1 Setup](https://github.com/Billeclipse/The-Complete-Guide-React-01-Starting-Setup)**
-* **[React Complete Guide – Part 1 Project](https://github.com/Billeclipse/The-Complete-Guide-React-01-Starting-Project)**
-* **[React Complete Guide – Part 2 Project](https://github.com/Billeclipse/The-Complete-Guide-React-02-Starting-Project)**
+* **[Olympus: Aegis of Athena](https://github.com/Billeclipse/olympus-aegis-of-athena-cloudday-2026)** — Google Cloud Day Athens 2026 Mini Game Jam (Go / Ebitengine / WASM)
+* **[CoinCase](https://github.com/Billeclipse/CoinCase-Ludum-Dare-40)** — Ludum Dare 40 entry (Unity / C#)
+* **[BillyBally](https://github.com/Billeclipse/BillyBally-Project)** — Unity 3D Android game
+* **[pygameboot.dev](https://github.com/Billeclipse/pygameboot.dev)** — Python / Pygame game
 
 ---
 
-## 🐍 Python Projects
+## 🌐 Backend, Web & Other Projects
 
-* **[ai-agentdev](https://github.com/Billeclipse/ai-agentdev)**
-  AI experimentation and development of intelligent agents
+* **[ai-agentdev](https://github.com/Billeclipse/ai-agentdev)** — experiments building AI agents in Python
+* **[Node.js + Sequelize](https://github.com/Billeclipse/Supercharging-Node.js-Applications-with-Sequelize-Project)** — REST backend with ORM and database modeling
+* **[Network Programming](https://github.com/Billeclipse/Network-Programming-Project)** — Java client-server application (university project)
+* **[bookbot](https://github.com/Billeclipse/bookbot)** — Python CLI for text analysis
 
-* **[pygameboot.dev](https://github.com/Billeclipse/pygameboot.dev)**
-  Python-based game development exploration
+<details>
+<summary>📚 Course & learning projects</summary>
 
-* **[bookbot](https://github.com/Billeclipse/bookbot)**
-  CLI automation tool for text processing
+* [React Complete Guide – Starting Setup](https://github.com/Billeclipse/The-Complete-Guide-React-01-Starting-Setup)
+* [React Complete Guide – Part 1 Project](https://github.com/Billeclipse/The-Complete-Guide-React-01-Starting-Project)
+* [React Complete Guide – Part 2 Project](https://github.com/Billeclipse/The-Complete-Guide-React-02-Starting-Project)
+
+</details>
 
 ---
 
@@ -68,15 +63,17 @@ Structured projects demonstrating progressive learning in React:
   <tr>
     <td width="55%" valign="top">
 
-**Languages:** C#, JavaScript, Python, SQL
-
-- **Backend:** ASP.NET Core, Node.js
+- **Languages:** C#, SQL, JavaScript, Python, Java, C, Go
+- **.NET:** ASP.NET Core, ASP.NET MVC / Web API, Entity Framework (Core), UWP / XAML
+- **Data:** SQL Server, Sequelize ORM
+- **Auth:** MSAL, Microsoft 365 SSO, role-based authorization
+- **DevOps:** Git, Azure Pipelines, GitHub Actions, Docker (learning)
 - **Frontend:** React
-- **Databases:** SQL Server, Sequelize ORM
-- **Other:** Entity Framework, UWP, Networking, Game Development
+- **Games:** Unity, Ebitengine, Pygame
+- **AI tooling:** Gemini, Antigravity, Claude, agent skills
 
   </td>
-  <td width="45%" valign="top" align="center" style="padding: 0;">  
+  <td width="45%" valign="top" align="center" style="padding: 0;">
     <img src="https://api.boot.dev/v1/users/public/e7e892ca-735b-40c0-b4e1-78b8edcf3957/thumbnail" width="100%">
   </td>
   </tr>
