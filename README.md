@@ -5,7 +5,7 @@
 * 💼 **Now:** Windows apps (UWP/XAML) & backend systems in C#/.NET
 * 🌱 **Learning:** ASP.NET Core, system design, scalable architectures, Docker, unit testing
 * 🎮 **Also:** game development (Unity, Go/Ebitengine) and AI-assisted / agentic development
-* 🌐 **Portfolio:** [billeclipse.com/portfolio](https://billeclipse.com/portfolio/)
+* 🌐 **Portfolio:** [billeclipse.online/portfolio](https://billeclipse.online/portfolio/)
 * 🔗 **LinkedIn:** [vasilios-giogourtsoglou](https://www.linkedin.com/in/vasilios-giogourtsoglou-5a7291114)
 * 📫 **Contact:** [vasiliosgio@hotmail.com](mailto:vasiliosgio@hotmail.com)
 
